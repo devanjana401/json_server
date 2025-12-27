@@ -1,0 +1,1 @@
+This folder is required by json-server so just keep it
