@@ -1,0 +1,165 @@
+{
+  "gardening": [
+    {
+      "id": "51",
+      "name": "Black Growbag",
+      "category": "growbags",
+      "image": "/growbags/blackbag1.webp",
+      "image2": "/growbags/blackbag2.webp",
+      "oldPrice": 180,
+      "price": 140,
+      "rating": 3,
+      "description": "Eco-friendly white growbag suitable for small-scale gardening. Provides excellent drainage to prevent overwatering. Easy to fold and store when not in use. Durable material ensures a long life of repeated use."
+    },
+    {
+      "id": "52",
+      "name": "Green Growbag",
+      "category": "growbags",
+      "image": "/growbags/greenbag1.webp",
+      "image2": "/growbags/greenbag2.webp",
+      "oldPrice": 180,
+      "price": 140,
+      "rating": 3,
+      "description": "Eco-friendly white growbag suitable for small-scale gardening. Provides excellent drainage to prevent overwatering. Easy to fold and store when not in use. Durable material ensures a long life of repeated use."
+    },
+    {
+      "id": "53",
+      "name": "White Growbag",
+      "category": "growbags",
+      "image": "/growbags/whitebag1.webp",
+      "image2": "/growbags/whitebag2.webp",
+      "oldPrice": 180,
+      "price": 140,
+      "rating": 3,
+      "description": "Eco-friendly white growbag suitable for small-scale gardening. Provides excellent drainage to prevent overwatering. Easy to fold and store when not in use. Durable material ensures a long life of repeated use."
+    },
+    {
+      "id": "54",
+      "name": "Ceramic Pot",
+      "category": "pots",
+      "image": "/pots/ceramicpot1.webp",
+      "image2": "/pots/ceramicpot2.webp",
+      "oldPrice": 160,
+      "price": 125,
+      "rating": 4.5,
+      "description": "Small ceramic pot ideal for indoor plants. Elegant design that complements home décor. Provides stable support for plant growth. Easy to clean and maintain over time."
+    },
+    {
+      "id": "55",
+      "name": "Hanging Pot",
+      "category": "pots",
+      "image": "/pots/hangingpot1.webp",
+      "image2": "/pots/hangingpot2.webp",
+      "oldPrice": 150,
+      "price": 115,
+      "rating": 3,
+      "description": "Perfect hanging pot for balcony or indoor décor. Lightweight and durable design. Helps save floor space while displaying plants beautifully. Resistant to outdoor weather conditions."
+    },
+    {
+      "id": "56",
+      "name": "Octa Pot",
+      "category": "pots",
+      "image": "/pots/octapot1.webp",
+      "image2": "/pots/octapot2.webp",
+      "oldPrice": 155,
+      "price": 120,
+      "rating": 4.2,
+      "description": "Octagonal pot with modern design for stylish interiors. Large capacity suitable for medium-sized plants. Promotes proper drainage to prevent waterlogging. Durable and long-lasting material."
+    },
+    {
+      "id": "57",
+      "name": "Plastic Pot",
+      "category": "pots",
+      "image": "/pots/plasticpot1.webp",
+      "image2": "/pots/plasticpot2.webp",
+      "oldPrice": 140,
+      "price": 110,
+      "rating": 3,
+      "description": "Affordable plastic pot for everyday use. Lightweight and easy to handle. Suitable for both indoor and outdoor plants. Resistant to cracking and weather damage."
+    },
+    {
+      "id": "58",
+      "name": "Titan Pot",
+      "category": "pots",
+      "image": "/pots/titanpot1.webp",
+      "image2": "/pots/titanpot2.webp",
+      "oldPrice": 180,
+      "price": 140,
+      "rating": 4.7,
+      "description": "Large titan pot for decorative or functional use. Perfect for indoor trees and shrubs. Strong and durable material ensures stability. Stylish design enhances garden or interior aesthetics."
+    },
+    {
+      "id": "59",
+      "name": "Wallmounting Pot",
+      "category": "pots",
+      "image": "/pots/wallmountingpot1.webp",
+      "image2": "/pots/wallmountingpot2.webp",
+      "oldPrice": 170,
+      "price": 135,
+      "rating": 4.3,
+      "description": "Space-saving wall-mounted pot for small spaces. Easy to install and secure. Ideal for growing herbs or decorative plants. Resistant to outdoor conditions for long-term use."
+    },
+    {
+      "id": "60",
+      "name": "Bio Fertilizer",
+      "category": "fertilizer",
+      "image": "/fertilizer/biofertilizer.webp",
+      "oldPrice": 130,
+      "price": 95,
+      "rating": 4.5,
+      "description": "Nutritious bio fertilizer for healthy plant growth. Enriches soil naturally without chemicals. Suitable for all types of plants and soils. Improves soil fertility over repeated use."
+    },
+    {
+      "id": "61",
+      "name": "Liquid Fertilizer",
+      "category": "fertilizer",
+      "image": "/fertilizer/liquidfertilizer.webp",
+      "oldPrice": 125,
+      "price": 90,
+      "rating": 4.2,
+      "description": "Easy-to-use liquid fertilizer for rapid plant nourishment. Quickly absorbed by roots for faster growth. Safe for indoor and outdoor plants. Enhances plant color and flower bloom."
+    },
+    {
+      "id": "62",
+      "name": "Organic Fertilizer",
+      "category": "fertilizer",
+      "image": "/fertilizer/organicfertilizer.webp",
+      "oldPrice": 140,
+      "price": 100,
+      "rating": 4.8,
+      "description": "100% organic fertilizer for natural plant care. Improves soil texture and fertility. Promotes healthy root and leaf development. Safe for edible plants and flowers."
+    },
+    {
+      "id": "63",
+      "name": "Soil Mix",
+      "category": "fertilizer",
+      "image": "/fertilizer/soilmix.webp",
+      "oldPrice": 120,
+      "price": 85,
+      "rating": 3,
+      "description": "Premium soil mix for potted plants and garden beds. Enhances soil drainage and aeration. Enriched with nutrients for healthy plant growth. Ideal for vegetables, herbs, and flowers."
+    },
+    {
+      "id": "1766828850508",
+      "name": "",
+      "category": "",
+      "image": "",
+      "image2": "",
+      "oldPrice": "",
+      "price": "",
+      "rating": "",
+      "description": ""
+    },
+    {
+      "id": "1766828864194",
+      "name": "Blue growbag",
+      "category": "growbags",
+      "image": "",
+      "image2": "",
+      "oldPrice": "",
+      "price": "",
+      "rating": "",
+      "description": ""
+    }
+  ]
+}
